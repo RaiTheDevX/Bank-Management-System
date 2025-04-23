@@ -1,4 +1,4 @@
-# Bank Management System – C++
+# 🏦 Bank Management System – C++
 
 ## 📜 Project Overview
 This project is an **interactive bank management system** developed in C++ that allows users to create and manage accounts, deposit and withdraw funds, and view account balances securely via a PIN. It uses file handling for persistent storage and showcases object-oriented programming principles.
@@ -38,34 +38,33 @@ This project is an **interactive bank management system** developed in C++ that 
 ---
 
 ## 🚀 Usage
-1. Clone the repository:
-   ```bash
-   gh repo clone RaiTheDevX/Bank-Management-System
 
-    Compile the C++ code:
+- **Clone the repository:**
+  ```bash
+  gh repo clone RaiTheDevX/Bank-Management-System
+  ```
 
-g++ main.cpp -o bank
+- **Compile the C++ code:**
+  ```bash
+  g++ main.cpp -o bank
+  ```
 
-Run the program:
+- **Run the program:**
+  ```bash
+  ./bank
+  ```
 
-    ./bank
-
-    Follow the on-screen menu to:
-
-        Create a new account
-
-        Deposit funds
-
-        Withdraw funds
-
-        Check balance
-
-        Display account details
+- **Follow the on-screen menu to:**
+  - Create a new account
+  - Deposit funds
+  - Withdraw funds
+  - Check balance
+  - Display account details
 
 ---
 
-📊 Example Output
-
+## 📊 Example Output
+```text
 -----------------------------------
  Welcome to the Bank Management CLI
 -----------------------------------
@@ -82,17 +81,24 @@ Balance Inquiry:
     Enter Account Number: 12345
     Enter PIN: ****
     Balance: $1000.00
+```
 
-🤔 Why This Project?
+---
+
+## 🤔 Why This Project?
 
 This project demonstrates:
+- 💻 Object-oriented programming with classes and file handling in C++.
+- 🔐 A simple, secure, and interactive CLI for managing banking operations.
+- 💾 Data persistence through file-based storage.
 
-    - Object-oriented programming with classes and file handling in C++.
+---
 
-    - A simple, secure, and interactive CLI for managing banking operations.
+## 🙌 Contributing
+Contributions are welcome!  
+Feel free to **open an issue** or **submit a pull request** to enhance features, fix bugs, or improve the user experience.
 
-    - Data persistence through file-based storage.
+---
 
-🙌 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+## 📜 License
+This project is licensed under the MIT License.
