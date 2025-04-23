@@ -40,7 +40,7 @@ This project is an **interactive bank management system** developed in C++ that 
 ## 🚀 Usage
 1. Clone the repository:
    ```bash
-   gh repo clone RaiTheDevX/BankManagementSystem
+   gh repo clone RaiTheDevX/Bank-Management-System
 
     Compile the C++ code:
 
